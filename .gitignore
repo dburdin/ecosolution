@@ -24,4 +24,4 @@ dist-ssr
 *.sw?
 
 #prettierrc.json
-.prettierrc.json
+prettierrc.json
