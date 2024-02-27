@@ -1,5 +1,5 @@
-export const App = () => {
-  return <></>;
-};
+import { Header } from "../Header/Header";
 
-export default App;
+export const App = () => {
+  return <Header />;
+};
